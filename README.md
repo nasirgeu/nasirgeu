@@ -80,12 +80,21 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-MohdN
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohdnasir7078) 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622' alt='insta' height='40'>](https://www.instagram.com/mohdnasir7078/) 
 
-## Stats
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshatprogrammer&theme=neon-dark)](https://git.io/streak-stats) <img
-    align="right"
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=akshatprogrammer&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B32"
-       />
+## <b>Github Statistics</b>
+
+[![Mohd Nasir github stats](https://github-readme-stats.vercel.app/api?username=mohdnasir7078&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/mohdnasir7078/github-readme-stats)
+
+## <b>Languages Used</b>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdnasir7078&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/mohdnasir7078/github-readme-stats)
+
+
+
+
+## <b>Streak Statistics</b>
+<div>
+    <img alt="Ananya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdnasir7078&theme=dark&hide_border=true"/>
+</div>
        
 ## Top Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatprogrammer)](https://github.com/anuraghazra/github-readme-stats) <img
