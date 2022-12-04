@@ -3,13 +3,9 @@
 -->
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm <b>Mohd Nasir</b> </h1>
 <h3 align="center">¯\_(ツ)_/¯
-
-Programmer | Developer | Learner
-
-?></h3>
-
-<p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
-I am <b>Mohd Nasir </b>, I am pursuing B.Tech in CSE from GEU, Dehradun. I am in my **pre final year**. I have a good knowledge in Programming Languages like **C++, Java, C, Python, Javascript and Php**.
+  
+<br>
+  I am pursuing B.Tech in CSE from GEU, Dehradun. I am in my **pre final year**. I have a good knowledge in Programming Languages like **C++, Java, C, Python, Javascript and Php**.
 Also I've developed several projects in the domain of **Web Development and Machine Learning**.
 
 
