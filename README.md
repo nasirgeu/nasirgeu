@@ -3,7 +3,13 @@
 -->
 ## About Me
 I am <b>Mohd Nasir </b>, I am pursuing B.Tech in CSE from GEU, Dehradun. I am in my **pre final year**. I have a good knowledge in Programming Languages like **C++, Java, C, Python, Javascript and Php**.
-Also I've developed several projects in the domain of **Web Development and Machine Learning, Image Processing and Computer Vision**.
+Also I've developed several projects in the domain of **Web Development and Machine Learning**.
+
+
+
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+UI+/UX+Designer!;I'm+a+Programmer!;I'm+a+Web+Developer!" /></a>
+</p>
 
 
 
