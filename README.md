@@ -88,3 +88,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-MohdN
        />
 ## How Popular am I?
 ![Profile views](https://gpvc.arturio.dev/mohdnasir7078)</br>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/mohdnasir7078/count.svg">
+</p>
