@@ -1,19 +1,17 @@
 <!--
 **mohdnasir7078/mohdnasir7078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm <b>Mohd Nasir</b> </h1>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+Mohd Nasir!;I'm+a+Programmer!;I'm+a+Web+Developer!" /></a>
+</p>
+
   
 <br>
-I am pursuing B.Tech in CSE from GEU, Dehradun. I am in my **pre final year**. I have a good knowledge in Programming Languages like **C++, Java, C, Python, Javascript and Php**.
+I am Mohd Nasir. I am pursuing B.Tech in CSE from GEU, Dehradun. I am in my **pre final year**. I have a good knowledge in Programming Languages like **C++, Java, C, Python, Javascript and Php**.
 Also I've developed several projects in the domain of **Web Development and Machine Learning**.
 
 
-
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+UI+/UX+Designer!;I'm+a+Programmer!;I'm+a+Web+Developer!" /></a>
-</p>
-
-
+<br>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
