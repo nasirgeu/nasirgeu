@@ -7,11 +7,7 @@ Also I've developed several projects in the domain of **Web Development and Mach
 
 
 
-<img
-  align="right"
-  width="275x"
-  src="https://miro.medium.com/max/1400/1*0FqDC0_r1f5xFz3IywLYRA.jpeg"
-/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 - 🔭 I’m currently working on "Machine Learning Enabled Interview Taking Application"
 - 🌱 I’m currently learning React
