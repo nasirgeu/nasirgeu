@@ -36,7 +36,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-MohdN
 
 
 
-
+<br><br>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -80,7 +80,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-MohdN
   </tbody>
 </table>
 
-
+<br><br>
 ## <b>Github Statistics</b>
 
 [![Mohd Nasir github stats](https://github-readme-stats.vercel.app/api?username=mohdnasir7078&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/mohdnasir7078/github-readme-stats)
