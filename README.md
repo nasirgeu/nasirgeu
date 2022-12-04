@@ -23,6 +23,8 @@ Also I've developed several projects in the domain of **Web Development and Mach
 - 😄 Pronouns: Coder/Programmer
 - ⚡ Fun fact: You look cute when you code.
 
+
+<br><br>
 ## <b>Profile</b>
 
 Property                 | Data  
