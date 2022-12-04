@@ -5,15 +5,10 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+Mohd+Nasir!;I'm+a+Programmer!;I'm+a+Web+Developer!" /></a>
 </p>
-
-  
-<br>
 I am Mohd Nasir. I am pursuing B.Tech in CSE from GEU, Dehradun. I am in my **pre final year**. I have a good knowledge in Programming Languages like **C++, Java, C, Python, Javascript and Php**.
 Also I've developed several projects in the domain of **Web Development and Machine Learning**.
 
-
-<br>
-
+</br></br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 - 🔭 I’m currently working on "Machine Learning Enabled Interview Taking Application"
