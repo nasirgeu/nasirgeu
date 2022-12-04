@@ -2,10 +2,9 @@
 **mohdnasir7078/mohdnasir7078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm <b>Mohd Nasir</b> </h1>
-<h3 align="center">¯\_(ツ)_/¯
   
 <br>
-  I am pursuing B.Tech in CSE from GEU, Dehradun. I am in my **pre final year**. I have a good knowledge in Programming Languages like **C++, Java, C, Python, Javascript and Php**.
+I am pursuing B.Tech in CSE from GEU, Dehradun. I am in my **pre final year**. I have a good knowledge in Programming Languages like **C++, Java, C, Python, Javascript and Php**.
 Also I've developed several projects in the domain of **Web Development and Machine Learning**.
 
 
