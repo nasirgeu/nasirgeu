@@ -21,6 +21,16 @@ Also I've developed several projects in the domain of **Web Development and Mach
 - 😄 Pronouns: Coder/Programmer
 - ⚡ Fun fact: You look cute when you code.
 
+## <b>Profile</b>
+
+Property                 | Data  
+-------------------------|------
+Language            |  ![C++ Badge](https://img.shields.io/badge/C%2B%2B-Language-blue) ![Python Badge](https://img.shields.io/badge/Python-Language-yellow) ![Java Badge](https://img.shields.io/badge/Java-Language-blue)
+IDE        |  ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio-Code-blue)
+Domain Knowledge         | ![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white) ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white) 
+Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-MohdNasir-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/MohdNas11766141/) [![Gmail Badge](https://img.shields.io/badge/-MohdNasir-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:mohdnasir4257@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-MohdNasir-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nasirgeu/)
+
+
 <h2 align="left">Languages and Tools :</h2>
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
