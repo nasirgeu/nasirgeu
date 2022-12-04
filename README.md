@@ -81,19 +81,19 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-MohdN
 </table>
 
 <br>
-## <b>Github Statistics</b>
+## Github Statistics
 
 [![Mohd Nasir github stats](https://github-readme-stats.vercel.app/api?username=mohdnasir7078&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/mohdnasir7078/github-readme-stats)
 
 <br>
-## <b>Languages Used</b>
+## Languages Used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdnasir7078&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/mohdnasir7078/github-readme-stats)
 
 
 
 <br>
-## <b>Streak Statistics</b>
+## Streak Statistics
 <div>
     <img alt="Ananya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdnasir7078&theme=dark&hide_border=true"/>
 </div>
