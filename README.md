@@ -36,7 +36,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-MohdN
 
 
 
-<br><br>
+<br>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -80,25 +80,26 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-MohdN
   </tbody>
 </table>
 
-<br><br>
+<br>
 ## <b>Github Statistics</b>
 
 [![Mohd Nasir github stats](https://github-readme-stats.vercel.app/api?username=mohdnasir7078&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/mohdnasir7078/github-readme-stats)
 
+<br>
 ## <b>Languages Used</b>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdnasir7078&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/mohdnasir7078/github-readme-stats)
 
 
 
-
+<br>
 ## <b>Streak Statistics</b>
 <div>
     <img alt="Ananya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdnasir7078&theme=dark&hide_border=true"/>
 </div>
        
 
-  
+<br>  
 ![Profile views](https://gpvc.arturio.dev/mohdnasir7078)</br>
 <p align="center">
   <img src="https://profile-counter.glitch.me/mohdnasir7078/count.svg">
