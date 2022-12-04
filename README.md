@@ -54,9 +54,7 @@ Also I've developed several projects in the domain of **Web Development and Mach
     src="https://github-readme-stats.vercel.app/api?username=mohdnasir7078&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B32"
        />
               
-
-## Badges
-[![@mohdnasir7078's Holopin board](https://holopin.me/mohdnasir7078)](https://holopin.io/@mohdnasir7078)
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 ## Connect with me: 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohdnasir7078)
 [<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nasirgeu/) 
