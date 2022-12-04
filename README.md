@@ -72,9 +72,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-MohdN
   </tbody>
 </table>
 
-## Connect with me: 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohdnasir7078) 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622' alt='insta' height='40'>](https://www.instagram.com/mohdnasir7078/) 
 
 ## <b>Github Statistics</b>
 
@@ -92,11 +89,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-MohdN
     <img alt="Ananya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdnasir7078&theme=dark&hide_border=true"/>
 </div>
        
-## Top Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatprogrammer)](https://github.com/anuraghazra/github-readme-stats) <img
-    align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacdomin&layout=compact&exclude_repo=PingMeRN&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B32"
-       />
+
   
 ![Profile views](https://gpvc.arturio.dev/mohdnasir7078)</br>
 <p align="center">
