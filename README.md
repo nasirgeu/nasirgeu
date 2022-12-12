@@ -1,5 +1,5 @@
 <!--
-**mohdnasir7078/mohdnasir7078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nasirgeu/nasirgeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <p align="center">
@@ -78,22 +78,22 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-MohdN
 
 ## <b>Github Statistics</b>
 
-[![Mohd Nasir github stats](https://github-readme-stats.vercel.app/api?username=mohdnasir7078&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/mohdnasir7078/github-readme-stats)
+[![Mohd Nasir github stats](https://github-readme-stats.vercel.app/api?username=nasirgeu&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/nasirgeu/github-readme-stats)
 
 ## <b>Languages Used</b>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdnasir7078&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/mohdnasir7078/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasirgeu&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/nasirgeu/github-readme-stats)
 
 
 
 ## <b>Streak Statistics</b>
 <div>
-    <img alt="Ananya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdnasir7078&theme=dark&hide_border=true"/>
+    <img alt="Ananya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nasirgeu&theme=dark&hide_border=true"/>
 </div>
        
 
 
-![Profile views](https://gpvc.arturio.dev/mohdnasir7078)</br>
+![Profile views](https://gpvc.arturio.dev/nasirgeu)</br>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/mohdnasir7078/count.svg">
+  <img src="https://profile-counter.glitch.me/nasirgeu/count.svg">
 </p>
