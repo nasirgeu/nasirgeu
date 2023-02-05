@@ -5,14 +5,13 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+Mohd+Nasir!;I'm+a+Programmer!;I'm+a+Web+Developer!" /></a>
 </p>
-I am Mohd Nasir. I am pursuing B.Tech in CSE from GEU, Dehradun. I am in my **pre final year**. I have a good knowledge in Programming Languages like **C++, Java, C, Python, Javascript and Php**.
-Also I've developed several projects in the domain of **Web Development and Machine Learning**.
+As a pre-final year student in B.Tech in Computer Science and Engineering at Graphic Era University, Dehradun, I have a strong foundation in various programming languages including C++, C, HTML, CSS, JavaScript, PHP, MySql. I have also had the opportunity to apply my knowledge through hands-on projects in web development and machine learning, furthering my technical skills and understanding of these areas. I am highly motivated to continue my professional development and become a proficient software engineer, making significant contributions to the industry.
 
 </br></br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 - 🔭 I’m currently working on "Machine Learning Enabled Interview Taking Application"
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Image Processing.
 - 👯 I’m looking to collaborate on my Project
 - 💬 Ask me about Time Management 
 - 📫 How to reach me: mohdnasir4257@gmail.com
