@@ -5,8 +5,7 @@
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+Mohd+Nasir!;I'm+a+Programmer!;I'm+a+Web+Developer!" /></a>
 </p>
-As a Final year student in B.Tech in Computer Science and Engineering at Graphic Era University, Dehradun, I have a strong foundation in various programming languages including C++, C, HTML, CSS, JavaScript, PHP, MySql. I have also had the opportunity to apply my knowledge through hands-on projects in web development and machine learning, furthering my technical skills and understanding of these areas. I am highly motivated to continue my professional development and become a proficient software engineer, making significant contributions to the industry.
-
+As a B.Tech graduate in Computer Science and Engineering from Graphic Era University, Dehradun, I have developed a strong foundation in various programming languages including C++, C, HTML, CSS, JavaScript, PHP, and MySQL. I have applied this knowledge through hands-on projects in web development and machine learning, further honing my technical skills and understanding of these areas. Currently working as a **Trainee Software Engineer at Tally Solutions**, I am highly motivated to continue my professional development and contribute to the software industry as a proficient software engineer.
 </br></br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
